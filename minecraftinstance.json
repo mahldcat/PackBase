@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-06-29T02:40:08.1541089Z",
+  "lastPlayed": "2017-06-29T03:10:55.5940697Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -30,9 +30,113 @@
   "allocatedMemory": 4096,
   "guid": "d5cdb35f-6258-4f17-aa38-f39c62c0e0d7",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\astrutzenberg\\Documents\\Curse\\Minecraft\\Instances\\PackBase\\",
-  "name": "PackBase2",
-  "cachedScans": [],
+  "installPath": "C:\\Users\\astrutzenberg\\Documents\\Curse\\Minecraft\\Instances\\PackBase2\\",
+  "name": "PackBase",
+  "cachedScans": [
+    {
+      "folderName": "JustEnoughResources-1.12-0.7.0.10.jar",
+      "fingerprint": 3106912549,
+      "fileDateHash": 780862868,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3106912549
+      ],
+      "status": 1,
+      "timestamp": "2017-06-29T02:44:32.0647447Z",
+      "lastWriteTimeUtc": "2017-06-29T02:38:58.529219Z",
+      "queryTimestamp": "2017-06-29T02:44:32.9273562Z",
+      "fileCount": 1,
+      "fileSize": 216542
+    },
+    {
+      "folderName": "InventoryTweaks-1.63+dev.94.jar",
+      "fingerprint": 700710442,
+      "fileDateHash": 2533117028,
+      "sectionID": 6,
+      "individualFingerprints": [
+        700710442
+      ],
+      "status": 1,
+      "timestamp": "2017-06-29T02:44:32.0367248Z",
+      "lastWriteTimeUtc": "2017-06-29T02:39:17.2111177Z",
+      "queryTimestamp": "2017-06-29T02:44:32.9278565Z",
+      "fileCount": 1,
+      "fileSize": 239131
+    },
+    {
+      "folderName": "New Worldbase",
+      "fingerprint": 0,
+      "fileDateHash": 1191675167,
+      "sectionID": 17,
+      "individualFingerprints": null,
+      "status": 5,
+      "timestamp": "2017-06-29T02:46:14.9959856Z",
+      "lastWriteTimeUtc": "2017-06-29T02:45:53.7939449Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
+      "fileCount": 11,
+      "fileSize": 0
+    },
+    {
+      "folderName": "journeymap-1.12-5.4.7.jar",
+      "fingerprint": 767458199,
+      "fileDateHash": 558770254,
+      "sectionID": 6,
+      "individualFingerprints": [
+        767458199
+      ],
+      "status": 1,
+      "timestamp": "2017-06-29T02:44:32.0457312Z",
+      "lastWriteTimeUtc": "2017-06-29T02:38:31.0454994Z",
+      "queryTimestamp": "2017-06-29T02:44:32.9278565Z",
+      "fileCount": 1,
+      "fileSize": 1735160
+    },
+    {
+      "folderName": "jei_1.12-4.7.0.68.jar",
+      "fingerprint": 2113147525,
+      "fileDateHash": 3092157424,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2113147525
+      ],
+      "status": 1,
+      "timestamp": "2017-06-29T02:44:32.0397265Z",
+      "lastWriteTimeUtc": "2017-06-29T02:38:56.055146Z",
+      "queryTimestamp": "2017-06-29T02:44:32.9278565Z",
+      "fileCount": 1,
+      "fileSize": 507754
+    },
+    {
+      "folderName": "theoneprobe-1.12-1.4.11.jar",
+      "fingerprint": 1064171441,
+      "fileDateHash": 1701857256,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1064171441
+      ],
+      "status": 1,
+      "timestamp": "2017-06-29T02:44:32.0672464Z",
+      "lastWriteTimeUtc": "2017-06-29T02:38:43.9850946Z",
+      "queryTimestamp": "2017-06-29T02:44:32.9278565Z",
+      "fileCount": 1,
+      "fileSize": 294952
+    },
+    {
+      "folderName": "CraftingTweaks_1.12-8.1.1.jar",
+      "fingerprint": 2459964241,
+      "fileDateHash": 4086430324,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2459964241
+      ],
+      "status": 1,
+      "timestamp": "2017-06-29T02:44:32.034223Z",
+      "lastWriteTimeUtc": "2017-06-29T02:39:19.1906074Z",
+      "queryTimestamp": "2017-06-29T02:44:32.9283569Z",
+      "fileCount": 1,
+      "fileSize": 92492
+    }
+  ],
   "isValid": true,
   "lastPreviousMatchUpdate": "2017-06-29T02:35:26.9754963Z",
   "isEnabled": true,
@@ -424,6 +528,380 @@
       "dateInstalled": "2017-06-29T02:39:19.1906074Z",
       "dateUpdated": "2017-06-29T02:39:19.1906074Z",
       "dateLastUpdateAttempted": "2017-06-29T02:39:19.1906074Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 242436,
+      "gameInstanceID": "d5cdb35f-6258-4f17-aa38-f39c62c0e0d7",
+      "installedFile": {
+        "Id": 2433748,
+        "FileName": "Ore Tweaker-1.0.2-1.12.0.jar",
+        "FileNameOnDisk": "Ore Tweaker-1.0.2-1.12.0.jar",
+        "FileDate": "2017-06-14T02:22:46",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2433/748/Ore Tweaker-1.0.2-1.12.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "com",
+            "Fingerprint": 3248200953
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1269924607
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 3273911401
+          }
+        ],
+        "PackageFingerprint": 3022013007,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-06-29T02:52:56.7673307Z",
+      "dateUpdated": "2017-06-29T02:52:56.7683327Z",
+      "dateLastUpdateAttempted": "2017-06-29T02:52:56.7683327Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 69118,
+      "gameInstanceID": "d5cdb35f-6258-4f17-aa38-f39c62c0e0d7",
+      "installedFile": {
+        "Id": 2432272,
+        "FileName": "Morpheus-1.12-3.3.2.jar",
+        "FileNameOnDisk": "Morpheus-1.12-3.3.2.jar",
+        "FileDate": "2017-06-11T13:19:21",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2432/272/Morpheus-1.12-3.3.2.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4290980796
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 558901356
+          }
+        ],
+        "PackageFingerprint": 784429560,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-06-29T02:53:16.1658548Z",
+      "dateUpdated": "2017-06-29T02:53:16.167837Z",
+      "dateLastUpdateAttempted": "2017-06-29T02:53:16.167837Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 59751,
+      "gameInstanceID": "d5cdb35f-6258-4f17-aa38-f39c62c0e0d7",
+      "installedFile": {
+        "Id": 2442186,
+        "FileName": "forestry_1.12-5.4.0.120.jar",
+        "FileNameOnDisk": "forestry_1.12-5.4.0.120.jar",
+        "FileDate": "2017-06-27T03:07:32",
+        "ReleaseType": 3,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2442/186/forestry_1.12-5.4.0.120.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1506045962
+          },
+          {
+            "Foldername": "config",
+            "Fingerprint": 2596089484
+          },
+          {
+            "Foldername": "CREDITS.txt",
+            "Fingerprint": 2738042887
+          },
+          {
+            "Foldername": "forestry",
+            "Fingerprint": 1783627701
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 252843009
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2297491975
+          },
+          {
+            "Foldername": "README.md",
+            "Fingerprint": 1348274452
+          }
+        ],
+        "PackageFingerprint": 3511739188,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-06-29T02:53:42.4818735Z",
+      "dateUpdated": "2017-06-29T02:53:42.4858964Z",
+      "dateLastUpdateAttempted": "2017-06-29T02:53:42.4858964Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 250363,
+      "gameInstanceID": "d5cdb35f-6258-4f17-aa38-f39c62c0e0d7",
+      "installedFile": {
+        "Id": 2435721,
+        "FileName": "AutoRegLib-1.2-8.jar",
+        "FileNameOnDisk": "AutoRegLib-1.2-8.jar.disabled",
+        "FileDate": "2017-06-17T16:35:53",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2435/721/AutoRegLib-1.2-8.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3394342100
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 17840426
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "vazkii",
+            "Fingerprint": 2560762392
+          }
+        ],
+        "PackageFingerprint": 893501101,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-06-29T02:55:00.6672751Z",
+      "dateUpdated": "2017-06-29T02:55:00.6692851Z",
+      "dateLastUpdateAttempted": "2017-06-29T02:55:00.6692851Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 250577,
+      "gameInstanceID": "d5cdb35f-6258-4f17-aa38-f39c62c0e0d7",
+      "installedFile": {
+        "Id": 2436388,
+        "FileName": "AkashicTome-1.2-8.jar",
+        "FileNameOnDisk": "AkashicTome-1.2-8.jar.disabled",
+        "FileDate": "2017-06-18T16:23:49",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2436/388/AkashicTome-1.2-8.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 250363,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1387239014
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1273939750
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "vazkii",
+            "Fingerprint": 3994160852
+          }
+        ],
+        "PackageFingerprint": 472382118,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-06-29T02:55:01.0685585Z",
+      "dateUpdated": "2017-06-29T02:55:01.1766364Z",
+      "dateLastUpdateAttempted": "2017-06-29T02:55:01.1766364Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 226670,
+      "gameInstanceID": "d5cdb35f-6258-4f17-aa38-f39c62c0e0d7",
+      "installedFile": {
+        "Id": 2436231,
+        "FileName": "LLOverlayReloaded-1.1.4-mc1.12.jar",
+        "FileNameOnDisk": "LLOverlayReloaded-1.1.4-mc1.12.jar",
+        "FileDate": "2017-06-18T13:36:56",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2436/231/LLOverlayReloaded-1.1.4-mc1.12.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 18271083
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 8830074
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3503559127
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 1669916435,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-06-29T02:55:38.5188685Z",
+      "dateUpdated": "2017-06-29T02:55:38.5669206Z",
+      "dateLastUpdateAttempted": "2017-06-29T02:55:38.5669206Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 257655,
+      "gameInstanceID": "d5cdb35f-6258-4f17-aa38-f39c62c0e0d7",
+      "installedFile": {
+        "Id": 2440843,
+        "FileName": "voidislandcontrol-1.2.0.jar",
+        "FileNameOnDisk": "voidislandcontrol-1.2.0.jar",
+        "FileDate": "2017-06-24T16:54:46",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2440/843/voidislandcontrol-1.2.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3369013490
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 1927418867
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3077664220
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 3510687952
+          }
+        ],
+        "PackageFingerprint": 1572611400,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-06-29T02:57:36.4501146Z",
+      "dateUpdated": "2017-06-29T02:57:36.4511166Z",
+      "dateLastUpdateAttempted": "2017-06-29T02:57:36.4511166Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
